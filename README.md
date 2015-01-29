@@ -1,5 +1,5 @@
 UnbalancedDataset
-=================
+==================
 
 UnbalancedDataset is a python module offering a number of resampling techniques commonly used in datasets showing strong between-class imbalance.
 
